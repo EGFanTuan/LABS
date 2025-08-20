@@ -26,6 +26,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(LABS
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        resources/logo.rc
         resources/pic.qrc
         resources/res.qrc
         resources/qss.qrc
