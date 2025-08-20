@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>source/C++.png</file>
+        <file>source/cat0.png</file>
+        <file>source/cat1.png</file>
+        <file>source/cat2.png</file>
+        <file>source/cat3.png</file>
+        <file>source/cat4.png</file>
+        <file>source/cat5.png</file>
+        <file>source/cat6.png</file>
+        <file>source/cat7.png</file>
+        <file>source/check-circle.png</file>
+        <file>source/exclamation-circle.png</file>
+        <file>source/info-circle.png</file>
+        <file>source/java.png</file>
+        <file>source/mute.png</file>
+        <file>source/pause.png</file>
+        <file>source/php.png</file>
+        <file>source/play-arrow.png</file>
+        <file>source/python.png</file>
+        <file>source/skip-next.png</file>
+        <file>source/skip-previous.png</file>
+        <file>source/sound.png</file>
+        <file>source/time.png</file>
+        <file>source/单曲循环.png</file>
+        <file>source/地球.png</file>
+        <file>source/列表循环.png</file>
+        <file>source/收藏.png</file>
+        <file>source/收藏灰.png</file>
+        <file>source/顺序播放.png</file>
+        <file>source/随机播放.png</file>
+        <file>source/太空望远镜.png</file>
+        <file>source/太阳风暴.png</file>
+        <file>source/卫星.png</file>
+        <file>source/音乐列表.png</file>
+        <file>source/陨石.png</file>
+        <file>source/陨石灰.png</file>
+        <file>source/ufo外星人.png</file>
+        <file>source/月球星球.png</file>
+        <file>source/ufo外星人16.png</file>
+        <file>source/ufo外星人32.png</file>
+        <file>source/月球星球32.png</file>
+        <file>source/月球星球16.png</file>
+        <file>source/bilibili.png</file>
+        <file>source/exit.png</file>
+    </qresource>
+    <qresource prefix="/bg">
+        <file>source/bg2.jpg</file>
+        <file>source/bg3.png</file>
+        <file>source/bgf0.jpg</file>
+        <file>source/bgf1.jpg</file>
+        <file>source/bgf2.jpg</file>
+        <file>source/bgf3.jpg</file>
+        <file>source/bgf4.jpg</file>
+        <file>source/bgf5.jpg</file>
+        <file>source/bgf6.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>

@@ -1,0 +1,121 @@
+{
+    "authors": [
+        {
+            "birthday": "",
+            "is_publish": 1,
+            "avatar": "http:\/\/singerimg.kugou.com\/uploadpic\/softhead\/{size}\/20240603\/20240603144300527983.jpg",
+            "author_id": 13166753,
+            "language": "华语",
+            "identity": 1,
+            "country": "中国",
+            "author_name": "北京黎羽科技",
+            "type": 8
+        },
+        {
+            "birthday": "",
+            "is_publish": 1,
+            "avatar": "http:\/\/singerimg.kugou.com\/uploadpic\/softhead\/{size}\/20200317\/20200317170141836793.jpg",
+            "author_id": 806297,
+            "language": "华语",
+            "identity": 37,
+            "country": "中国",
+            "author_name": "闹闹丶",
+            "type": 1
+        }
+    ],
+    "hash": "6658C86418B7260FBBEEBD2EAF02E535",
+    "author_name": "北京黎羽科技、闹闹丶",
+    "imgUrl": "http:\/\/singerimg.kugou.com\/uploadpic\/softhead\/{size}\/20240603\/20240603144300527983.jpg",
+    "status": 1,
+    "audio_id": 1088246339,
+    "ctype": 1009,
+    "errcode": 0,
+    "req_albumid": "95227402",
+    "fileHead": 100,
+    "fail_process": 0,
+    "timeLength": 143,
+    "bitRate": 128,
+    "singerName": "北京黎羽科技",
+    "mvhash": "",
+    "fileName": "北京黎羽科技、闹闹丶 - 流星物语",
+    "intro": "",
+    "extName": "mp3",
+    "extra": {
+        "320hash": "EA31EA7AD52B6BFAF920413506448E58",
+        "128filesize": 2296749,
+        "sqfilesize": 0,
+        "sqhash": "",
+        "320timelength": 143520,
+        "128bitrate": 128,
+        "highbitrate": 0,
+        "highhash": "",
+        "320filesize": 5741805,
+        "128timelength": 143520,
+        "sqbitrate": 0,
+        "highfilesize": 0,
+        "hightimelength": 0,
+        "128hash": "6658C86418B7260FBBEEBD2EAF02E535",
+        "sqtimelength": 0
+    },
+    "fileSize": 2296749,
+    "songName": "流星物语",
+    "store_type": "audio",
+    "backup_url": [
+        "https:\/\/sharefs.kugou.com\/202508180259\/5f3ea86cb9fe2b4eba161c9249a22c0d\/v3\/6658c86418b7260fbbeebd2eaf02e535\/yp\/full\/ap1000_us0_pi409_s2602141497.mp3"
+    ],
+    "req_hash": "6658C86418B7260FBBEEBD2EAF02E535",
+    "old_cpy": 1,
+    "audio_group_id": 423850173,
+    "time": 1755457182,
+    "area_code": "1",
+    "singerHead": "",
+    "sqprivilege": 0,
+    "publish_self_flag": 0,
+    "topic_remark": "",
+    "albumid": 95227402,
+    "topic_url": "",
+    "url": "https:\/\/sharefs.tx.kugou.com\/202508180259\/a79d3e346eca28bc4d66152132bed716\/v3\/6658c86418b7260fbbeebd2eaf02e535\/yp\/full\/ap1000_us0_pi409_s2602141497.mp3",
+    "choricSinger": "北京黎羽科技、闹闹丶",
+    "climax_info": {
+        "timelength": "22800",
+        "start_time": "52700",
+        "end_time": "75500",
+        "audio_id": "1088246339"
+    },
+    "stype": 11323,
+    "trans_param": {
+        "display_rate": 0,
+        "display": 0,
+        "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20240601\/20240601183102466897.jpg",
+        "ogg_128_hash": "C59B24517F331C339F27E5918E33A90B",
+        "qualitymap": {
+            "attr0": 322928660,
+            "attr1": 2097407
+        },
+        "classmap": {
+            "attr0": 234881032
+        },
+        "ipmap": {
+            "attr0": 33554436
+        },
+        "cid": -1,
+        "language": "国语",
+        "cpy_attr0": 50331648,
+        "ogg_320_hash": "86D3A84E66E1DE24917459D94121C4BE",
+        "pay_block_tpl": 1,
+        "musicpack_advance": 0,
+        "ogg_128_filesize": 1685989,
+        "ogg_320_filesize": 5774040
+    },
+    "highprivilege": 0,
+    "album_img": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20240601\/20240601183102466897.jpg",
+    "album_audio_id": 637184695,
+    "128privilege": 0,
+    "error": "",
+    "privilege": 0,
+    "album_category": 1,
+    "pay_type": 0,
+    "320privilege": 0,
+    "singerId": 13166753,
+    "q": 0
+}

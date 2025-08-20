@@ -1,0 +1,5 @@
+QWidget{
+    border-radius: $radius;
+    border: none;
+    background-color: $background;
+}

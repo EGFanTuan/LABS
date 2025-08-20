@@ -1,0 +1,6 @@
+build*/
+
+*.user.*
+*.user
+*.cache
+*.vscode

@@ -1,0 +1,6 @@
+QPushButton[btn_state="playing"]{
+    qproperty-icon: $background_playing;
+}
+QPushButton[btn_state="paused"]{
+    qproperty-icon: $background_paused;
+}

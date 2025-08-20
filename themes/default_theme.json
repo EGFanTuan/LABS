@@ -1,0 +1,200 @@
+{
+    "meta": {
+        "name": "Default Theme",
+        "version": "1.0.0",
+        "author": "QSS"
+    },
+    "global": {
+        "color1": "rgba(170, 170, 255,95%)",
+        "color2": "rgba(255, 255, 255,70%)",
+        "color3": "rgba(255, 255, 170,70%)",
+        "background_color1": "rgba(0, 0, 0,70%)",
+        "background_color2": "rgba(0, 0, 0,50%)",
+        "background_color3": "rgba(0, 0, 0,20%)",
+        "font_family": "楷体",
+        "font_size_s": "14px",
+        "font_size_m": "16px",
+        "font_size_l": "18px"
+    },
+    "table_list": {
+        "table_view": {
+        }
+    },
+    "progress_bar": {
+        "slider_handle": {
+            "width": "32px",
+            "height": "32px",
+            "background": "url(:/icon/source/ufo外星人32.png)",
+            "margin": "-16px 0px"
+        },
+        "slider_groove": {
+            "height": "4px",
+            "border_radius": "2px"
+        }
+    },
+    "volume_slider": {
+        "slider_handle": {
+            "width": "32px",
+            "height": "32px",
+            "background": "url(:/icon/source/月球星球32.png)",
+            "margin": "-16px 0px"
+        },
+        "slider_groove": {
+            "height": "4px",
+            "border_radius": "2px"
+        }
+    },
+    "background_alpha_slider": {
+        "slider_handle": {
+            "width": "8px",
+            "height": "8px",
+            "background": "rgba(170,170,255,50%)",
+            "margin": "-16px 0px"
+        },
+        "slider_groove": {
+            "height": "4px",
+            "border_radius": "2px"
+        }
+    },
+    "title_widget": {
+        "widget": {
+            "background": "rgba(128,128,128,45%)"
+        }
+    },
+    "side_widget": {
+        "widget": {
+            "background": "rgba(160,160,160,15%)"
+        }
+    },
+    "transparent_widget": {
+        "widget": {
+            "background": "transparent"
+        }
+    },
+    "main_widget": {
+        "radius_widget": {
+            "background": "transparent",
+            "radius": "10px"
+        }
+    },
+    "search_text_edit": {
+        "line_edit": {
+            "background": "rgba(160,160,160,30%)"
+        }
+    },
+    "time_label": {
+        "time_text_label": {
+        }
+    },
+    "bili_info_label": {
+        "bili_label":{
+        }
+    },
+    "bili_pic_label": {
+        "bili_label":{
+        }
+    },
+    "home_page_btn": {
+        "button": {
+            "background": "url(:/icon/source/地球.png)"
+        }
+    },
+    "search_page_btn": {
+        "button": {
+            "background": "url(:/icon/source/太空望远镜.png)"
+        }
+    },
+    "bili_search_btn": {
+        "button":{
+            "background": "url(:/icon/source/卫星.png)"
+        }
+    },
+    "bili_search_page_btn": {
+        "button": {
+            "background": "url(:/icon/source/bilibili.png)"
+        }
+    },
+    "love_page_btn": {
+        "button": {
+            "background": "url(:/icon/source/陨石.png)"
+        }
+    },
+    "history_page_btn": {
+        "button": {
+            "background": "url(:/icon/source/陨石灰.png)"
+        }
+    },
+    "open_from_local_btn": {
+        "button": {
+            "background": "url(:/icon/source/太阳风暴.png)"
+        }
+    },
+    "play_btn": {
+        "button": {
+            "background": "url(:/icon/source/play-arrow.png)"
+        },
+        "play_control_btn": {
+            "background_playing":"url(:/icon/source/pause.png)",
+            "background_paused":"url(:/icon/source/play-arrow.png)"
+        }
+    },
+    "play_mode_btn": {
+        "button": {
+            "background": "url(:/icon/source/列表循环.png)"
+        },
+        "play_mode_btn": {
+            "background_loop":"url(:/icon/source/列表循环.png)",
+            "background_single":"url(:/icon/source/单曲循环.png)",
+            "background_list":"url(:/icon/source/顺序播放.png)",
+            "background_random":"url(:/icon/source/随机播放.png)"
+        }
+    },
+    "mute_btn":{
+        "button": {
+            "background": "url(:/icon/source/sound.png)"
+        },
+        "mute_btn": {
+            "background_muted":"url(:/icon/source/mute.png)",
+            "background_unmuted":"url(:/icon/source/sound.png)"
+        }
+    },
+    "next_song_btn": {
+        "button": {
+            "background": "url(:/icon/source/skip-next.png)"
+        }
+    },
+    "prev_song_btn": {
+        "button": {
+            "background": "url(:/icon/source/skip-previous.png)"
+        }
+    },
+    "search_btn": {
+        "button": {
+            "background": "url(:/icon/source/卫星.png)"
+        }
+    },
+    "switch_background_btn": {
+        "button": {
+            "background": "url(:/icon/source/cat7.png)"
+        }
+    },
+    "time_image_label": {
+        "time_image_label": {
+            "background": "url(:/icon/source/time.png)"
+        }
+    },
+    "love_btn": {
+        "button": {
+            "background": "url(:/icon/source/收藏灰.png)"
+        },
+        "love_btn": {
+            "background_loved":"url(:/icon/source/收藏.png)",
+            "background_unloved":"url(:/icon/source/收藏灰.png)"
+        }
+    },
+    "exit_btn": {
+        "button": {
+            "background": "url(:/icon/source/exit.png)"
+        }
+    }
+}

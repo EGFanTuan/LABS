@@ -1,0 +1,6 @@
+QPushButton[btn_state="muted"]{
+    qproperty-icon: $background_muted;
+}
+QPushButton[btn_state="unmuted"]{
+    qproperty-icon: $background_unmuted;
+}

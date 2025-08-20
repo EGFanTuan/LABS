@@ -1,0 +1,6 @@
+QPushButton{
+    qproperty-icon: $background;
+    background: transparent;
+    border: none;
+    icon-size: 30px;
+}

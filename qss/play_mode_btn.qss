@@ -1,0 +1,12 @@
+QPushButton[btn_state="loop"]{
+    qproperty-icon: $background_loop;
+}
+QPushButton[btn_state="single"]{
+    qproperty-icon: $background_single;
+}
+QPushButton[btn_state="random"]{
+    qproperty-icon: $background_random;
+}
+QPushButton[btn_state="list"]{
+    qproperty-icon: $background_list;
+}

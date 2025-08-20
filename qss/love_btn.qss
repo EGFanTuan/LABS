@@ -1,0 +1,6 @@
+QPushButton[btn_state="loved"]{
+    qproperty-icon: $background_loved;
+}
+QPushButton[btn_state="unloved"]{
+    qproperty-icon: $background_unloved;
+}

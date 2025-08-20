@@ -1,0 +1,7 @@
+QLineEdit{
+    border: none;
+    background: $background;
+    padding: 10px;
+    font-size: $font_size_m;
+    font-family: $font_family;
+}

@@ -1,0 +1,83 @@
+QTableView {
+    background-color: $background_color3;
+    border: none;
+    padding: 0px;
+    font-family: $font_family;
+    outline: none;
+    gridline-color: rgba(255, 255, 255, 0.3); /* subtle gridlines */
+    selection-background-color: rgba(255, 255, 255, 0.3); /* soft selection */
+    selection-color: $color1;
+    alternate-background-color: transparent;
+    border-radius: 8px;
+}
+
+QHeaderView::section:horizontal {
+    background-color: $background_color3;
+    color: $color1;
+    padding: 6px 8px;
+    margin: 0px;
+    border: none;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 600;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1); /* thin separator */
+}
+
+QTableView::item {
+    padding: 6px 8px;
+    margin: 0px;
+    color: $color1;
+    font-size: 14px;
+    border-radius: 6px;
+}
+
+QTableView::item:selected {
+    background-color: rgba(255, 255, 255, 0.08); /* modern hover feel */
+    color: $color1;
+    border-radius: 6px;
+}
+
+QScrollBar{
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.1); /* subtle track */
+}
+
+QScrollBar:vertical {
+    border: none;
+    background: transparent; /* no track background */
+    background-color: rgba(255, 255, 255, 0.1);
+    width: 6px;
+    margin: 0px;
+    border-radius: 4px; /* rounded corners */
+}
+
+QScrollBar::handle:vertical {
+    background-color: $color1;
+    border-radius: 4px;
+    min-height: 20px;
+}
+
+QScrollBar::handle:vertical:hover {
+    background-color: rgba(94, 234, 212, 0.6);
+    width: 8px;
+}
+
+QScrollBar::add-line:vertical, 
+QScrollBar::sub-line:vertical {
+    height: 0px;
+    background: transparent;
+}
+
+QScrollBar::add-page:vertical,
+QScrollBar::sub-page:vertical {
+    height: 0px;
+    background: transparent;
+}
+
+QScrollBar:vertical:hover {
+    width: 8px;
+}
+QScrollBar:vertical:hover::handle {
+    margin: 2px 1px;
+}
+

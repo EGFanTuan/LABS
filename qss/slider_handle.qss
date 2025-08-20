@@ -1,0 +1,7 @@
+QSlider::handle:horizontal{
+    width: $width;
+    height: $height;
+    background: $background;
+    background-repeat: no-repeat;
+    margin: $margin;
+}

@@ -1,0 +1,5 @@
+QSlider::groove:horizontal{
+    height: $height;
+    background: $color1;
+    border-radius: $border_radius;
+}

@@ -1,0 +1,4 @@
+QWidget {
+    border: none;
+    background-color: $background !important;
+}

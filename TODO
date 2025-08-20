@@ -1,0 +1,54 @@
+=== GOGOGO ===
+
+COMPLETED ✓
+- Volume control implementation
+- Progress bar click-to-seek functionality  
+- Enhanced visualizer widget sizing
+- Improved list component styling
+- Advanced lyrics display widget
+- Enhanced list widget functionality
+- Bilibili audio download support
+- Multi-monitor display optimization
+- Real-time theme hot reloading
+- Comprehensive song library management system
+- Filter for search result
+- Repeated download prevention
+
+IN PROGRESS 🔄
+- Better network performance
+- M4A conversion async processing
+
+PLANNED 📋
+- Page selection for search
+- Visualizer code refactoring and optimization
+- Performance enhancement
+- Better blur effect process 
+- Animation for widget
+- User preferences/settings panel
+- Main widget UX improvements
+
+=== BUG TRACKER ===
+
+NOTED 
+- Window geometry corruption after minimize→show while maximized
+- Open from local not list added
+
+
+FINDOUT
+- Better cover download for bilibili (avoid using first_frame for cover)
+
+
+
+RESOLVED ✅
+- Timeline label positioning issues (adjust layout)
+- Bilibili info display formatting (new widget)
+- Progress bar interaction accuracy (better slider)
+- kg download still didn't work (invalid call for LoadSourceFromNet())
+- no song added at all (invalid call for AddSong())
+- history didn't fresh while download bilibili (same above)
+- No settings/list saved (invalid call for SaveSettings(), incorrect implementation in SaveToDisk())
+- Remove from list didn't actually remove (should not call remove function in list directly)
+
+
+
+
